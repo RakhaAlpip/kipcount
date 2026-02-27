@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767692358515",
+    "project_id": "kipcount-95740",
+    "storage_bucket": "kipcount-95740.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767692358515:android:cb4c3374b273d31b48fb06",
+        "android_client_info": {
+          "package_name": "com.kipcount.kipcount"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzVUcd3vEgARHfIUMi9tvTrrWGufdRZ1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
