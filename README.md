@@ -56,4 +56,4 @@ lib/
    ```
 
 ## ✒️ Author
-- **Rakha Alghifary Iban Pameling** - *(SMK 3 Perguruan Cikini)*
+- **Rakha Alghifary Iban Pameling**
